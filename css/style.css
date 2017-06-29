@@ -1,27 +1,3 @@
-body, html {
-    overflow-x: hidden;
-	  color: #212529;
-    font-family: 'Poppins', sans-serif;
-    background-color: #f8f9fa;
-}
-
-p, li {
-    font-family: 'Poppins', sans-serif;
-	  font-size: 1em;
-    line-height: 1.75em;
-    color: #495057;
-
-}
-
-h3 {
-    margin-top: 10px;
-}
-
-
-hr {
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
 
 
 
